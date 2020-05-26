@@ -1,0 +1,8 @@
+{
+  "name": "node_scrapper",
+  "version": "1.0.0",
+  "description": "nodejs scrapper",
+  "main": "index.js",
+  "author": "cinguilherme",
+  "license": "MIT"
+}

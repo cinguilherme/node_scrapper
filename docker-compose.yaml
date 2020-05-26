@@ -1,0 +1,5 @@
+version: "3.7"
+services:
+    playground:
+        image: node-scrapper:latest
+        command: npm run playground
